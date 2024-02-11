@@ -1,0 +1,128 @@
+"filename", "language", "JSON", "HTML", "Markdown", "JavaScript", "XML", "JavaScript JSX", "YAML", "comment", "blank", "total"
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/.eslintrc.cjs", "JavaScript", 0, 0, 0, 22, 0, 0, 0, 0, 1, 23
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/README.md", "Markdown", 0, 0, 5, 0, 0, 0, 0, 0, 4, 9
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/index.html", "HTML", 0, 13, 0, 0, 0, 0, 0, 0, 1, 14
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/package-lock.json", "JSON", 6088, 0, 0, 0, 0, 0, 0, 0, 1, 6089
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/package.json", "JSON", 39, 0, 0, 0, 0, 0, 0, 0, 1, 40
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/pnpm-lock.yaml", "YAML", 0, 0, 0, 0, 0, 0, 4211, 0, 593, 4804
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/public/vite.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 79, 0, 1, 8, 88
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/context/DarkModeContext.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 36, 0, 0, 6, 42
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/data/Uploader.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 121, 0, 10, 24, 155
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/data/data-bookings.js", "JavaScript", 0, 0, 0, 276, 0, 0, 0, 8, 10, 294
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/data/data-cabins.js", "JavaScript", 0, 0, 0, 76, 0, 0, 0, 0, 3, 79
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/data/data-guests.js", "JavaScript", 0, 0, 0, 212, 0, 0, 0, 3, 3, 218
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/LoginForm.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 53, 0, 1, 5, 59
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/Logout.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 13, 0, 0, 3, 16
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/SignupForm.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 76, 0, 2, 10, 88
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/UpdatePasswordForm.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 59, 0, 0, 7, 66
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/UpdateUserDataForm.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 67, 0, 1, 13, 81
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/UserAvatar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 31, 0, 0, 5, 36
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/useLogin.js", "JavaScript", 0, 0, 0, 20, 0, 0, 0, 0, 1, 21
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/useLogout.js", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 0, 3, 18
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/useSignup.js", "JavaScript", 0, 0, 0, 16, 0, 0, 0, 0, 2, 18
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/useUpdateUser.js", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 1, 4, 20
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/authentication/useUser.js", "JavaScript", 0, 0, 0, 9, 0, 0, 0, 0, 2, 11
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/BookingDataBox.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 167, 0, 1, 20, 188
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/BookingDetail.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 86, 0, 0, 15, 101
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/BookingRow.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 135, 0, 0, 18, 153
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/BookingTable.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 36, 0, 0, 8, 44
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/BookingTableOperations.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 30, 0, 0, 4, 34
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/useBookings.js", "JavaScript", 0, 0, 0, 37, 0, 0, 0, 4, 14, 55
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/useBoooking.js", "JavaScript", 0, 0, 0, 16, 0, 0, 0, 0, 3, 19
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/bookings/useDeleteBooking.js", "JavaScript", 0, 0, 0, 17, 0, 0, 0, 0, 3, 20
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/AddCabin.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 18, 0, 15, 5, 38
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CabinRow-v1.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 96, 0, 10, 15, 121
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CabinRow.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 98, 0, 10, 18, 126
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CabinTable-v1.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 54, 0, 0, 7, 61
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CabinTable-v2.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 46, 0, 0, 8, 54
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CabinTable.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 46, 0, 2, 10, 58
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CabinTableOperations.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 23, 0, 0, 3, 26
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CreateCabinForm-v1.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 116, 0, 2, 16, 134
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/CreateCabinForm.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 140, 0, 2, 17, 159
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/useCabins.js", "JavaScript", 0, 0, 0, 13, 0, 0, 0, 0, 3, 16
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/useCreateCabin.js", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 0, 4, 19
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/useDeleteCabin.js", "JavaScript", 0, 0, 0, 17, 0, 0, 0, 0, 5, 22
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/cabins/useEditCabin.js", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 0, 4, 19
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/check-in-out/CheckinBooking.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 105, 0, 0, 18, 123
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/check-in-out/CheckoutButton.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 4, 20
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/check-in-out/TodayActivity.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 58, 0, 0, 8, 66
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/check-in-out/TodayItem.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 47, 0, 0, 8, 55
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/check-in-out/useCheckin.js", "JavaScript", 0, 0, 0, 26, 0, 0, 0, 0, 4, 30
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/check-in-out/useCheckout.js", "JavaScript", 0, 0, 0, 21, 0, 0, 0, 0, 7, 28
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/check-in-out/useTodayActivity.js", "JavaScript", 0, 0, 0, 9, 0, 0, 0, 0, 1, 10
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/DashboardBox.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 2, 16
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/DashboardFilter.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 3, 17
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/DashboardLayout.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 30, 0, 0, 6, 36
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/DurationChart.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 176, 0, 1, 10, 187
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/SalesChart.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 97, 0, 0, 8, 105
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/Stat.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 54, 0, 0, 6, 60
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/Stats.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 38, 0, 0, 10, 48
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/TodayItem.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 62, 0, 0, 8, 70
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/useRecentBookings.js", "JavaScript", 0, 0, 0, 14, 0, 0, 0, 0, 4, 18
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/dashboard/useRecentStays.js", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 0, 6, 21
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/settings/UpdateSettingsForm.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 65, 0, 0, 10, 75
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/settings/useSettings.js", "JavaScript", 0, 0, 0, 13, 0, 0, 0, 0, 3, 16
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/features/settings/useUpdateSetting.js", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 0, 4, 19
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/hooks/useLocalStorageState.js", "JavaScript", 0, 0, 0, 14, 0, 0, 0, 0, 3, 17
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/hooks/useMoveBack.js", "JavaScript", 0, 0, 0, 5, 0, 0, 0, 0, 2, 7
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/hooks/useOutsideClick.js", "JavaScript", 0, 0, 0, 18, 0, 0, 0, 0, 6, 24
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 1, 16
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Account.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 20, 0, 0, 5, 25
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Booking.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 7, 0, 0, 3, 10
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Bookings.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 4, 20
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Cabins.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 20, 0, 0, 4, 24
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Checkin.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 7, 0, 0, 3, 10
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Dashboard.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 3, 19
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Login.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 23, 0, 0, 4, 27
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/PageNotFound.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 41, 0, 0, 7, 48
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Settings.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 12, 0, 0, 3, 15
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/pages/Users.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 11, 0, 0, 3, 14
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/services/apiAuth.js", "JavaScript", 0, 0, 0, 55, 0, 0, 0, 3, 17, 75
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/services/apiBookings.js", "JavaScript", 0, 0, 0, 98, 0, 0, 0, 10, 24, 132
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/services/apiCabins.js", "JavaScript", 0, 0, 0, 47, 0, 0, 0, 5, 18, 70
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/services/apiSettings.js", "JavaScript", 0, 0, 0, 21, 0, 0, 0, 2, 5, 28
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/services/supabase.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 1, 2, 9
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/styles/GlobalStyles.js", "JavaScript", 0, 0, 0, 150, 0, 0, 0, 44, 35, 229
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/AppLayout.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 36, 0, 0, 6, 42
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Button.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 60, 0, 0, 6, 66
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/ButtonGroup.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 7, 0, 0, 3, 10
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/ButtonIcon.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 19, 0, 0, 3, 22
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/ButtonText.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 3, 19
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Checkbox.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 40, 0, 0, 4, 44
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/ConfirmDelete.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 44, 0, 0, 5, 49
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/DarkModeToggle.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 12, 0, 0, 3, 15
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/DataItem.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 31, 0, 0, 5, 36
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Empty.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 4, 0, 0, 2, 6
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/ErrorFallback.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 47, 0, 0, 4, 51
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/FileInput.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 23, 0, 0, 3, 26
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Filter.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 57, 0, 0, 7, 64
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Flag.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 7, 0, 0, 2, 9
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Form.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 24, 0, 1, 5, 30
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/FormRow.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 44, 0, 0, 5, 49
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/FormRowVertical.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 24, 0, 0, 5, 29
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Header.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 19, 0, 0, 4, 23
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/HeaderMenu.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 30, 0, 0, 5, 35
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Heading.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 34, 0, 4, 4, 42
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Input.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 9, 0, 0, 3, 12
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Logo.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 19, 0, 0, 5, 24
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/MainNav.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 91, 0, 0, 5, 96
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Menus.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 124, 0, 0, 21, 145
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Modal-v1.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 63, 0, 0, 7, 70
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Modal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 85, 0, 0, 16, 101
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Pagination.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 89, 0, 0, 12, 101
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/ProtectedRoute.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 25, 0, 6, 9, 40
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Row.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 22, 0, 0, 4, 26
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Select.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 26, 0, 0, 3, 29
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Sidebar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 22, 0, 2, 4, 28
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/SortBy.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 19, 0, 0, 4, 23
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Spinner.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 19, 0, 0, 4, 23
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/SpinnerMini.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 13, 0, 0, 4, 17
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Table.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 87, 0, 0, 15, 102
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/TableOperations.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 7, 0, 0, 3, 10
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Tag.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 3, 17
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/ui/Textarea.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 11, 0, 0, 3, 14
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/utils/constants.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/src/utils/helpers.js", "JavaScript", 0, 0, 0, 20, 0, 0, 0, 4, 6, 30
+"/home/samu/Documentos/PROGRAMACION/CURSOS/REACT/16-the-wild-oasis/vite.config.js", "JavaScript", 0, 0, 0, 5, 0, 0, 0, 1, 1, 7
+"Total", "-", 6127, 13, 5, 1344, 1, 3913, 4211, 157, 1408, 17179
