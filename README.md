@@ -5,7 +5,7 @@
 <p> 
 Proyecto desarrollado como parte de un curso de React. Explora la creación de componentes dinámicos y gestión de estado en una aplicación moderna de cabañas.
 </p> 
-<p> Creado siguiendo el curos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
+<p> Creado siguiendo el cursos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
 </p>
 
 </div> <div align="center">
