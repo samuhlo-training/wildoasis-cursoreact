@@ -78,5 +78,5 @@ pnpm dev
 
 1. Utiliza este usuario para probar :
 
-email : samu@example.com
-pass : antartida33
+<p>   <em>email</em> : samu@example.com</p>
+<p>   <em>password</em> : antartida33</p>
