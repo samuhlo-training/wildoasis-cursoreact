@@ -8,12 +8,22 @@ Proyecto desarrollado como parte de un curso de React. Explora la creación de c
 <p> Creado siguiendo el cursos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
 </p>
 
-</div> <div align="center">
- <a href="#empezar"> Empezar </a>
-  <span>&nbsp;✦&nbsp;</span> 
-  <a href="#comandos"> Comandos </a> 
-  </div> 
+<div align="center">
+    <a href="#empezar">
+        Empezar
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#comandos">
+        Comandos
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#usuario">
+        Usuario
+    </a>
+</div>
+
   <p></p> 
+  
 <div align="center">
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -63,3 +73,10 @@ pnpm dev
 | `dev` o `start` | Lanza un servidor de desarrollo local en `localhost:3000`.                   |
 | `build`         | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`. |
 | `preview`       | Vista previa en local `localhost:3000`                                       |
+
+## Usuario
+
+1. Utiliza este usuario para probar :
+
+email : samu@example.com
+pass : antartida33
