@@ -31,7 +31,7 @@ function Sidebar() {
     <StyledSidebar>
       <Logo />
       <MainNav />
-      {user?.email === "samu@example.com" && <Uploader />}
+      <Uploader />
     </StyledSidebar>
   );
 }
