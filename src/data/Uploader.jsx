@@ -94,14 +94,13 @@ async function createBookings() {
     };
   });
 
-
-
   const { error } = await supabase.from("bookings").insert(finalBookings);
   if (error) console.log(error.message);
 }
 
 function Uploader() {
   const [isLoading, setIsLoading] = useState(false);
+  const [isVisible, setIsVisible] = useState(true);
 
   async function uploadAll() {
     setIsLoading(true);
@@ -116,6 +115,7 @@ function Uploader() {
     await createBookings();
 
     setIsLoading(false);
+    setIsVisible(false);
   }
 
   async function uploadBookings() {
@@ -123,7 +123,10 @@ function Uploader() {
     await deleteBookings();
     await createBookings();
     setIsLoading(false);
+    setIsVisible(false);
   }
+
+  if (!isVisible) return null;
 
   return (
     <div
@@ -142,10 +145,6 @@ function Uploader() {
 
       <Button onClick={uploadAll} disabled={isLoading}>
         Upload ALL
-      </Button>
-
-      <Button onClick={uploadBookings} disabled={isLoading}>
-        Upload bookings ONLY
       </Button>
     </div>
   );
