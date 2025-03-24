@@ -5,7 +5,7 @@
 <p> 
 Proyecto desarrollado como parte de un curso de React. Explora la creación de componentes dinámicos y gestión de estado en una aplicación moderna de cabañas.
 </p> 
-<p> Creado siguiendo el cursos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
+<p> Creado siguiendo los cursos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
 </p>
 
 <div align="center">
@@ -31,7 +31,10 @@ Proyecto desarrollado como parte de un curso de React. Explora la creación de c
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+<div align="center">
 <img src="portada.webp"></img>
+</div>
 
 ## Stack
 
@@ -41,42 +44,8 @@ Proyecto desarrollado como parte de un curso de React. Explora la creación de c
   Inicie su proyecto con una base de datos de Postgres, autenticación, API instantáneas, funciones perimetrales, suscripciones en tiempo real, almacenamiento e incrustaciones de vectores.
 - [**Vite**](https://vitejs.dev/) - Herramienta rápida para construir aplicaciones modernas con soporte para React.
 
-## Empezar
-
-### 1. Clona este repositorio:
-
-```bash
-git clone https://github.com/samU13/wildoasis-cursoreact.git
-cd wildoasis-cursoreact
-```
-
-### 2. Instala las dependencias:
-
-Usa [pnpm](https://pnpm.io/installation) o el gestor de paquetes de tu elección para instalar las dependencias.
-
-```bash
-pnpm install
-```
-
-### 3. Inicia el servidor de desarrollo:
-
-```bash
-pnpm dev
-```
-
-1. Abre [**http://localhost:3000**](http://localhost:3000/) en tu navegador para ver el resultado
-
-## Comandos
-
-| Comando         | Acción                                                                       |
-| :-------------- | :--------------------------------------------------------------------------- |
-| `dev` o `start` | Lanza un servidor de desarrollo local en `localhost:3000`.                   |
-| `build`         | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`. |
-| `preview`       | Vista previa en local `localhost:3000`                                       |
-
 ## Usuario
 
-1. Utiliza este usuario para probar :
-
-<p>   <em>email</em> : testuser@test.com </p>
-<p>   <em>password</em> : test1234</p>
+> Utiliza este usuario para probar :
+>
+> <em>email</em> : testuser@test.com </p> > <em>password</em> : test1234</p>
