@@ -7,6 +7,7 @@ Proyecto desarrollado como parte de un curso de React. Explora la creación de c
 </p> 
 <p> Creado siguiendo los cursos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
 </p>
+</div>
 
 <div align="center">
     <a href="#empezar">
